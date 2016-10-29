@@ -14,10 +14,10 @@ default_img:
 
 # Profile settings
 name:
-profile_img:
-profile:
+profile_img: https://unsplash.it/2000/1200?random
+profile: 魔都上海的一个还未入门的程序员， 今年才毕业， 励志造造轮子什么的， Coconut， 闲来写字的地方。
 social:
-  github:
+  github: https://github.com/AbnerXin
 
 # Build settings
 include: ["_categories"]
